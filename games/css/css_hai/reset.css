@@ -65,7 +65,7 @@ header {
 	transform: rotateY(180deg);
 }
 .back {
-	background-image: url('/games/images/images_haikyuu/carta.jpg');
+	background-image: url('../../images/images_haikyuu/carta.jpg');
 	backface-visibility: hidden;
 }
 .reveal-card {
