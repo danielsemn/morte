@@ -2,7 +2,7 @@ main {
 	display: flex;
 	flex-direction: column;
 	width: 100%;
-	background-image: url('../images/images_re4/outro.jpeg');
+	background-image: url('../../images/images_re4/outro.jpeg');
 	background-size: cover;
 	min-height: 100vh;
 	align-items: center;
@@ -64,7 +64,7 @@ header {
 }
 
 .back {
-	background-image: url('../images/images_re4/card.png');
+	background-image: url('../../images/images_re4/card.png');
 	backface-visibility: hidden;
 }
 
